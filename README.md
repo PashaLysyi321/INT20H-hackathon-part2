@@ -12,7 +12,7 @@
 
 ## Preprocess
 
-Окрім коректної роботи з різними сорсами ми використовуємо feature engineering для створення 4 нових фіч
+Окрім коректної роботи з різними сорсами ми використовуємо feature engineering для створення 5 нових фіч
 
 - seconds - time of a day
 - distance – sum of the lengths of the nodes
